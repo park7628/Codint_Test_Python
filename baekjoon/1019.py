@@ -17,4 +17,30 @@ for i in range(0, 10):
     
 for i in L:
     print(i, end=' ')
+    
+    '''방법 2 메모리 에러
+    #백준 1019
+
+n = int(input())
+num_L=['0','1','2','3','4','5','6','7','8','9']
+L = []
+
+chek=[]
+
+for h in range(n):
+    L.append(str(h+1))
+    
+cnt = 0
+for j in range(10):
+    for k in range(n):
+        for a in range(len(L[k])):
+            if num_L[j] == L[k][a]:
+                cnt+=1
+                
+    chek.append(cnt)
+    cnt = 0
+    
+for i in chek:
+    print(i, end=' ')
+    '''
         
