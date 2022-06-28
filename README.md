@@ -47,7 +47,7 @@
 
 소스코드 : DATA_TYPE6-1.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/DATA_TYPE6-1.py
 
-소스코드 : DATA_TYPE7-2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/DATA_TYPE6-2.py
+소스코드 : DATA_TYPE6-2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/DATA_TYPE6-2.py
 
 # TEST
 소스코드 : TEST-2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/TEST-2.py
