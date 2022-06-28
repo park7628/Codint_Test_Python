@@ -49,6 +49,21 @@
 
 소스코드 : DATA_TYPE6-2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/DATA_TYPE6-2.py
 
+소스코드 : DATA_TYPE7.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/DATA_TYPE7.py
+
+# FUNCION
+소스코드 : FUNCION_1.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/FUNCION_1.py
+
+소스코드 : FUNCION_2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/FUNCION_2.py
+
+소스코드 : FUNCION_3.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/FUNCION_3.py
+
+소스코드 : FUNCION_4.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/FUNCION_4.py
+
+소스코드 : FUNCION_5.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/FUNCION_5.py
+
+소스코드 : FUNCION_6.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/FUNCION_6.py
+
 # TEST
 소스코드 : TEST-2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/TEST-2.py
 
@@ -61,3 +76,13 @@
 소스코드 : TEST-6.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/TEST-6.py
 
 소스코드 : TEST-7.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/TEST-7.py
+
+소스코드 : TEST-8.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/TEST-8.py
+
+소스코드 : TEST-9.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/TEST-9.py
+
+소스코드 : TEST-10.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/TEST-10.py
+
+소스코드 : TEST-11.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/TEST-11.py
+
+소스코드 : TEST-12.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/TEST-12.py
