@@ -1,0 +1,6 @@
+tu = ()
+print(type(tu))
+L = list(input().split())
+L.sort()
+tu = tuple(L)
+print(tu[:])
