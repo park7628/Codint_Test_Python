@@ -97,3 +97,9 @@
 
 소스코드 : CURRENCY.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-3/CURRENCY.py
 
+소스코드 : PLEASE_MY.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-3/PLEASE_MY.py
+
+소스코드 : PLEASE.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-3/PLEASE.py
+
+소스코드 : CURRENCY-TEST.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-3/CURRENCY-TEST.py
+
