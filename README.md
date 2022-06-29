@@ -86,3 +86,14 @@
 소스코드 : TEST-11.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/TEST-11.py
 
 소스코드 : TEST-12.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY1-2/TEST-12.py
+
+# DAY-3
+
+소스코드 : TIME_TEST.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-3/TIME_TEST.py
+
+# 그리드 문제
+
+소스코드 : CURRENCY_MY.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-3/CURRENCY_MY.py
+
+소스코드 : CURRENCY.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-3/CURRENCY.py
+
