@@ -113,3 +113,18 @@
 
 소스코드 : CARD.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-3/CARD.py
 
+# DAY-4 구현
+
+소스코드 : SIMULATION-MY.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-4/SIMULATION-MY.py
+
+소스코드 : SIMULATION.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-4/SIMULATION.py
+
+소스코드 : TIME-FILTER-TEST.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-4/TIME-FILTER-TEST.py
+
+소스코드 : TIME-FILTER.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-4/TIME-FILTER.py
+
+소스코드 : KINGHT.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-4/KINGHT.py
+
+소스코드 : TEST-2-MY.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-4/TEST-2-MY.py
+
+소스코드 : TEST-2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-4/TEST-2.py
