@@ -1,17 +1,17 @@
 s = input('문자열을 입력하세요 : ')
 sum = 0
 s = list(s)
-print(s)
-print(len(s))
+
 for i in range(len(s)):
     if ord(s[i]) <= ord('9') and ord(s[i]) >= ord('0'):
         sum += int(s[i])
-        s.pop(i)
-    
+        s[i] = '0'
 s.sort()
+a = s.count('0')
+for i in range(a):
+    s.pop(0)
 s.append(str(sum))
+print(*s, sep ='')
 
-s = str(s)
 
-print(s)
-# 다 풀이 못함
+    
