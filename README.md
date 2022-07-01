@@ -136,3 +136,11 @@
 소스코드 : TEST-3-MY.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-4/TEST-3-MY.py
 
 소스코드 : TEST-3.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-4/TEST-3.py
+
+# DAY-5 EXAM
+
+소스코드 : EXAM_01.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-5/EXAM_01.py
+
+소스코드 : EXAM_02.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-5/EXAM_02.py
+
+소스코드 : EXAM_03.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-5/EXAM_03.py
