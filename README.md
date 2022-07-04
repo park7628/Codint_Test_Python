@@ -144,3 +144,21 @@
 소스코드 : EXAM_02.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-5/EXAM_02.py
 
 소스코드 : EXAM_03.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-5/EXAM_03.py
+
+# DAY-6 
+
+소스코드 : STACKK_ORIGINAL.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-6/STACKK_ORIGINAL.py
+
+소스코드 : QUEUE_ORIGINAL.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-6/QUEUE_ORIGINAL.py
+
+소스코드 : ICE_COUNT.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-6/ICE_COUNT.py
+
+소스코드 : DFS_ORIGINAL.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-6/DFS_ORIGINAL.py
+
+소스코드 : DFS_EX1.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-6/DFS_EX1.py
+
+소스코드 : BFS_ORIGINAL.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-6/BFS_ORIGINAL.py
+
+소스코드 : BFS_EX2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-6/BFS_EX2.py
+
+소스코드 : BFS_EX3.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-6/BFS_EX3.py
