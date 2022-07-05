@@ -162,3 +162,33 @@
 소스코드 : BFS_EX2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-6/BFS_EX2.py
 
 소스코드 : BFS_EX3.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-6/BFS_EX3.py
+
+# DAY-7 
+
+소스코드 : SELECT.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/SELECT.py
+
+소스코드 : INSERT.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/INSERT.py
+
+소스코드 : COMPARISON.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/COMPARISON.py
+
+소스코드 : QUICK_1.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/QUICK_1.py
+
+소스코드 : QUICK_2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/QUICK_2.py
+
+소스코드 : QUICK_COMPARISON_EX1.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/QUICK_COMPARISON_EX1.py
+
+소스코드 : COUNT.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/COUNT.py
+
+소스코드 : SORT_EX.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/SORT_EX.py
+
+소스코드 : SORT_SUM.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/SORT_SUM.py
+
+소스코드 : SORT_EX3.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/SORT_EX3.py
+
+소스코드 : SORT_EX4.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/SORT_EX4.py
+
+소스코드 : RED_RICE.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/RED_RICE.py
+
+소스코드 : BINARY_1.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/BINARY_1.py
+
+소스코드 : BINARY_2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/BINARY_2.py
