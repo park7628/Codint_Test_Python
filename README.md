@@ -192,3 +192,7 @@
 소스코드 : BINARY_1.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/BINARY_1.py
 
 소스코드 : BINARY_2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-7/BINARY_2.py
+
+# DAY-8 
+
+소스코드 : DP-EX1.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-8/DP-EX1.py
