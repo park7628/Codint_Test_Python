@@ -1,6 +1,6 @@
-# 데이터의 개수 N 찾고자 하는 부분합 M
-n, m = map(int, input().split())
-data = list(map(int, input().split()))
+n = 5 # 데이터의 개수 N
+m = 5 # 찾고자 하는 부분합 M
+data = [1, 2, 3, 2, 5] # 전체 수열
 count = 0
 interval_sum = 0
 end = 0
