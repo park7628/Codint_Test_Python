@@ -214,3 +214,19 @@
 소스코드 : FIBONACCI_T_B.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-8/FIBONACCI_T_B.py
 
 소스코드 : DP_CURRENCY.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-8/DP_CURRENCY.py
+
+# DAY-9 
+
+소스코드 : 3PRIME.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-9/3PRIME.py
+
+소스코드 : PRIFIX_SUM.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-9/PRIFIX_SUM.py
+
+소스코드 : PRIME_GOOD.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-9/PRIME_GOOD.py
+
+소스코드 : PRIME_STRING_EX1.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-9/PRIME_STRING_EX1.py
+
+소스코드 : PRIME_STRING_EX2.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-9/PRIME_STRING_EX.py
+
+소스코드 : TOWPOINTER.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-9/TOWPOINTER.py
+
+소스코드 : TWO_PLUS_EX3.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-9/TWO_PLUS_EX3.py
