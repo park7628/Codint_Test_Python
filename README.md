@@ -230,3 +230,11 @@
 소스코드 : TOWPOINTER.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-9/TOWPOINTER.py
 
 소스코드 : TWO_PLUS_EX3.py https://github.com/park7628/Codint_Test_Python/blob/main/DAY-9/TWO_PLUS_EX3.py
+
+# TEST-2
+
+소스코드 : F_EXAM_01.py https://github.com/park7628/Codint_Test_Python/blob/main/TEST-2/F_EXAM_01.py
+
+소스코드 : F_EXAM_02.py https://github.com/park7628/Codint_Test_Python/blob/main/TEST-2/F_EXAM_02.py
+
+소스코드 : F_EXAM_03.py https://github.com/park7628/Codint_Test_Python/blob/main/TEST-2/F_EXAM_03.py
